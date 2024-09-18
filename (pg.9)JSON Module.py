@@ -5,4 +5,4 @@ json_str = json.dumps(data)
 print(json_str) #Output String
 
 parsed_data = json.loads(json_str)
-print(parsed_data) 
+print(parsed_data) #Output Python dictionary
